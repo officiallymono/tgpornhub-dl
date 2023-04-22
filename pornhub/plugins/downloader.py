@@ -21,9 +21,9 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 
 
 if os.path.exists("downloads"):
-    print("✅ file is exist")
+    print("✅ folder is exist")
 else:
-    print("✅ file has made")
+    print("✅ folder has made")
 
 
 active = []

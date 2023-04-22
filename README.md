@@ -1,6 +1,6 @@
 ### Environment
 
-To build the bot using this source-code, setup all vars manually and fill it at pornhub/config.py file.
+In order to deploy your own bot, please fill-up the provided vars correctly in pornhub/config.py.
 
 ### Deploy on Heroku (PAID)
 
@@ -13,7 +13,7 @@ To build the bot using this source-code, setup all vars manually and fill it at 
 7. Click on Deploy Branch button
 8. After build done -> Click on Resources Tab -> Switch Toggle On
 
-### Run Bot
+### Deploy on VPS
 
 ```console
 root@ubuntu~ $ git clone https://github.com/levina-lab/tgpornhub-dl
@@ -24,7 +24,7 @@ root@ubuntu~ $ python3 -m pornhub
 
 ### Others
 
-This repo has made with an function that let you generate statistic, broadcasting message, search video with inline mode and force user to join into your channel. So make sure that you've set an group for receive the log report given by your bot also the channel of the force-subscribe feature.
+This repo has made with an function that let you generate statistic (the generated stats is counted from the local database, remember every time the server restart, all data generated in database will reset to zero!), broadcasting message, search video with inline mode and force user to join into your channel. So make sure that you've set an group for receive the log report given by your bot also the channel of the force-subscribe feature.
 
 ### Credit
 
