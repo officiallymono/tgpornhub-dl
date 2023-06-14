@@ -16,7 +16,7 @@ In order to deploy your own bot, please fill-up the provided vars correctly in p
 ### Deploy on VPS
 
 ```console
-root@ubuntu~ $ git clone https://github.com/levina-lab/tgpornhub-dl
+root@ubuntu~ $ git clone https://github.com/officiallymono/tgpornhub-dl
 root@ubuntu~ $ cd tgpornhub-dl
 root@ubuntu~ $ pip3 install -Ur requirements.txt
 root@ubuntu~ $ python3 -m pornhub
