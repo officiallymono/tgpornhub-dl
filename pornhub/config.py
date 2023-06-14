@@ -1,12 +1,12 @@
 from typing import List
 
-API_ID: int = insert_your_own_api_id_here
-API_HASH: str = "insert_your_own_api_hash_here"
-TOKEN: str = "insert_your_bot_token_here"
+API_ID: int = 14908655
+API_HASH: str = "5188430178:AAETPTqry8FcKH19I9Jk0lQ4_j1VhIP82IU"
+TOKEN: str = "6290904385:AAH4BoGhuOf93-6kMN7Cc1370A47fBXGljE"
 
-log_chat: int = insert_log_chat_id_here
-sub_chat: str = "insert_channel_username_here"
-sudoers: List[int] = [1757169682, 859229457]
+log_chat: int = -998420101
+sub_chat: str = "jornhubcom"
+sudoers: List[int] = [448780758 , 5681003049]
 prefixs: List[str] = ["/", "!", ".", "$", "-"]
 
 # notes
